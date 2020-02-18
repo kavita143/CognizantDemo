@@ -8,6 +8,7 @@ public class CognizantApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CognizantApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
